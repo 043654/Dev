@@ -12,7 +12,7 @@ import static lv.dong.Dev.Go.Execute;
 public class DevApplication implements CommandLineRunner {
 
     public static void main(String[] args) {
-//        DevApplication.Run();
+//        DevApplication.Run();/
         SpringApplication.run(DevApplication.class, args);
 
     }
